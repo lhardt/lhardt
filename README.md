@@ -1,13 +1,31 @@
+<!--
+	Hello! Thank you if you like this README!
+
+	This README is auto-updatad by Github Actions,
+	and many links direct to my pages, so take
+	special care if you want to use this
+	as an inspiration for your README.
+
+	I would recommend checking out
+	github.com/abhisheknaiidu/awesome-github-profile-readme
+	and looking for what suits you better.
+
+	Many thanks to @abhisheknaiidu for compiling
+	great ideas.
+ -->
+
+
 ## Hi There :wave:
+
+I'm a student of Computer Science,
+---
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lhardt&show_icons=true&theme=gotham" alt="lhardt">
 
-- :hammer_and_wrench: : C, C++, Java,
-
+- :hammer_and_wrench: : C / C++ / Java / PHP
 - :computer: : Debian, Android, Windows
-
 - :seedling: : Studying Computer Science at UFRGS  	
-
+- :gear: : Looking to collaborate professionaly 
 - :globe_with_meridians: :
 	-	:brazil: Portuguese (native),
 	-	:uk: English (fluent),
