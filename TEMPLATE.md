@@ -17,7 +17,8 @@
 
 ## Hi There :wave:
 
-I'm a student of Computer Science,
+I'm a student of Computer Science, with passion for mathematics, astronomy, and exploring new ideas.
+
 ---
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lhardt&show_icons=true&theme=gotham" alt="lhardt">
@@ -25,7 +26,7 @@ I'm a student of Computer Science,
 - :hammer_and_wrench: : C / C++ / Java / PHP
 - :computer: : Debian, Android, Windows
 - :seedling: : Studying Computer Science at UFRGS  	
-- :gear: : Looking to collaborate professionaly 
+- :gear: : Looking to collaborate professionaly
 - :globe_with_meridians: :
 	-	:brazil: Portuguese (native),
 	-	:uk: English (fluent),
