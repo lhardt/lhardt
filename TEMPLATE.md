@@ -24,5 +24,5 @@
 
 ### How To Reach Me
 
-- [![LinkedIn Image]{https://i.stack.imgur.com/gVE0j.png} LinkedIn](https://www.linkedin.com/in/l%C3%A9o-h-19a468120/)
-- [![Github Image]{https://i.stack.imgur.com/tskMh.png} GitHub ](https://github.com/lhardt/)
+- [![LinkedIn Image](https://i.stack.imgur.com/gVE0j.png) LinkedIn ](https://www.linkedin.com/in/l%C3%A9o-h-19a468120/)
+- [![Github Image](https://i.stack.imgur.com/tskMh.png) GitHub ](https://github.com/lhardt/)
