@@ -1,5 +1,4 @@
-### Hi There :wave:
--->
+## Hi There :wave:
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lhardt&show_icons=true&theme=gotham" alt="lhardt">
 
@@ -7,14 +6,14 @@
 
 - :computer: : Debian, Android, Windows
 
-- :seedling: : Studying Computer Science  	
+- :seedling: : Studying Computer Science at UFRGS  	
 
 - :globe_with_meridians: :
 	-	:brazil: Portuguese (native),
 	-	:uk: English (fluent),
 	-	:de: German (studying)
 
--->
+---
 
 ### My Coding Activity by Language
 
@@ -23,5 +22,5 @@
 
 ### How To Reach Me
 
-- LinkedIn: ![Léo Hardt]{https://www.linkedin.com/in/l%C3%A9o-h-19a468120/}
-- GitHub: ![lhardt]{https://github.com/lhardt/}
+- [![LinkedIn Image]{https://i.stack.imgur.com/gVE0j.png} LinkedIn](https://www.linkedin.com/in/l%C3%A9o-h-19a468120/)
+- [![Github Image]{https://i.stack.imgur.com/tskMh.png} GitHub ](https://github.com/lhardt/)
